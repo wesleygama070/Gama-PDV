@@ -1,8 +1,0 @@
-flutter:
-  assets:
-    - assets/images/logo.png
-
-dependencies:
-  flutter:
-    sdk: flutter
-  provider: ^6.0.5
